@@ -60,10 +60,10 @@ I am a final-year **Software Engineering** student at **NUST** specializing in *
 
 ### Certifications
 
-* [cite_start]**Oracle OCI Generative AI Professional Certification**
-* [cite_start]**Oracle OCI AI Associate Certification** 
-* [cite_start]**DeepLearning.AI Machine Learning Specialization**
-* [cite_start]**DeepLearning.AI Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**
+* **Oracle OCI Generative AI Professional Certification**
+* **Oracle OCI AI Associate Certification** 
+* **DeepLearning.AI Machine Learning Specialization**
+* **DeepLearning.AI Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**
 
 ---
 
