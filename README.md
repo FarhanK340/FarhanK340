@@ -51,7 +51,7 @@ I am a final-year **Software Engineering** student at **NUST** specializing in *
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | [**An Expert Guided Multimodal AI Ecosystem for Diagnostic Intelligence (FYP)**](https://github.com/FarhanK340/An-Expert-Guided-Multimodal-AI-Ecosystem/) | A diagnostic system integrating **MRI tumor segmentation** with automated radiology report generation using **LLMs**. | PyTorch, U-Net, LLMs, Django |
-| [**Secure MQTT IoT Monitoring**](https://github.com/Harri200191/Mqtt_Encryption_Framework/) | End-to-end IoT pipeline with **AES-128 encryption**, intrusion detection (IDS), and a cloud-hosted dashboard. | ESP32, Flask, MQTT, Docker |
+| [**Secure MQTT IoT Monitoring**](https://github.com/FarhanK340/SecureEdge-IoT) | End-to-end IoT pipeline with **AES-128 encryption**, intrusion detection (IDS), and a cloud-hosted dashboard. | ESP32, Flask, MQTT, Docker |
 | [**Brain Tumor Segmentation**](https://github.com/FarhanK340/brain-tumor-segmentation) | Developed a **2D U-Net model** on the BraTS dataset, achieving a **0.87 Dice score**. | Python, PyTorch, CNN, NumPy |
 | [**Crypto Price Prediction**](https://github.com/FarhanK340/Crypto-Price-Movement-Prediction) | Dual-task ML model for predicting **ETH price trends** using financial time-series features. | Pandas, LightGBM, Scikit-Learn |
 | [**Cloud Photo Streaming App**](https://github.com/Ahmad-Shajee/CC_Project) | Microservices-based app for low-latency media streaming, containerized and deployed on **GCP**. | GCP, Docker, SQL, React |
